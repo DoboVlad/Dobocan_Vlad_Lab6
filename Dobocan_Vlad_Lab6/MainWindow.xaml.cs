@@ -44,7 +44,7 @@ namespace Dobocan_Vlad_Lab6
             DataContext = this;
           
         }
-
+        //when it's loaded
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
 
